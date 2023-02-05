@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "688917723090",
+    "firebase_url": "https://chat-program-80bb3-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "chat-program-80bb3",
+    "storage_bucket": "chat-program-80bb3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688917723090:android:63ea9e45ce16db01d13a0b",
+        "android_client_info": {
+          "package_name": "com.example.telegram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "688917723090-1c8jop7s3rec1kav69gkrns48dfqmhjv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.telegram",
+            "certificate_hash": "1ddefe7c98c5b16ce6f801f21d604029fc394c2e"
+          }
+        },
+        {
+          "client_id": "688917723090-5s5oi60c45i3s3opu4o0valapqqo7k4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5J9d8hvndDvMiRmi7k1OAiaVspTDVbBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "688917723090-5s5oi60c45i3s3opu4o0valapqqo7k4o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
